@@ -11,11 +11,11 @@ Este é um projeto de uma Página de Login e Cadastro do Instagram, elaborado co
 
 ## Página de Login
 
-![Página de Login](./login.png)
+![Página de Login](/Login.png)
 
 ## Página de Cadastro
 
-![Página de Cadastro](./cadastro.png)
+![Página de Cadastro](/Cadastro.png)
 
 ## Como Usar
 
