@@ -41,6 +41,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Contato
 
-Para mais informações sobre o projeto, entre em contato com [seu-nome](mailto:diogocesar.2127@gmail.com).
+Para mais informações sobre o projeto, entre em contato com [Diogo](mailto:diogocesar.2127@gmail.com).
 
 
